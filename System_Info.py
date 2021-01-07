@@ -1,3 +1,4 @@
+import json
 import subprocess
 from tkinter import *
 s = subprocess.check_output('systeminfo',shell=True)
